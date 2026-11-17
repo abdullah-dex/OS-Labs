@@ -1,0 +1,12 @@
+# Compiled binary files
+*.out
+*.o
+*.exe
+*.bin
+
+# VS Code workspace settings
+.vscode/
+
+# Python virtual environments (in case you use ~/ai_env or local venv)
+__pycache__/
+.env
